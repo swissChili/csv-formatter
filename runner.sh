@@ -1,0 +1,1 @@
+/etc/csv-formatter.jar $*
